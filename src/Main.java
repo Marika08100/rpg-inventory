@@ -14,7 +14,7 @@ public class Main {
         inventoryManager.printItems();
 
         // Mennyiség változtatása
-        inventoryManager.updateQuantity("Bloodforged Gauntlets", 8);
+        inventoryManager.updateQuantity("Bloodforged Gauntlets ", 8);
 
         // Elem eltávolítása
         inventoryManager.removeItem("Serpent's Bite");
